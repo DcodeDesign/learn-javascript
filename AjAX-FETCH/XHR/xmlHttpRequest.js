@@ -69,7 +69,7 @@ xhr.send(null);
 * TEST 2
 */
 // readystatechangeévénement se déclenche chaque fois que le readyState change
-xhr.onreadystatechange = function() {
+/*xhr.onreadystatechange = function() {
     console.log("onreadystatechange");
     //Si le statut HTTP n'est pas 200...
     if (xhr.status !== 200){
@@ -118,7 +118,7 @@ xhr.onprogress = function(event){
         //total = contient le nombre total d'octets à télécharger
        console.log(event.loaded + " octets reçus sur un total de " + event.total);
     }
-};
+};*/
 
 /*
 * Exemple
