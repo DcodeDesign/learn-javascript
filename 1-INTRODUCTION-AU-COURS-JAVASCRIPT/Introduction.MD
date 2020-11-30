@@ -34,19 +34,6 @@ l’utiliser comme on le souhaite en intégrant ses éléments à nos scripts
 tandis que pour utiliser un framework il faut respecter son cadre (ses règles). 
 Les framework JavaScript les plus connus aujourd’hui sont Angular.js et React.js.
 
-Les types de données
-    Le dernier standard ECMAScript définit 8 types de données :
-    Sept types de données primitifs:
-    
-        Booléen
-        Null
-        Undefined
-        Nombre
-        BigInt (proposition pour ES2020)
-        Chaîne de caractères (String)
-        Symbole (type introduit avec ECMAScript 6)
-        Objet
-
 
 Ressources
     > https://www.pierre-giraud.com/javascript-apprendre-coder-cours/type-donnee/
